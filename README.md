@@ -21,7 +21,7 @@ Se desarrollaron varios ejercicios en Python usando funciones, módulos, y conce
 - **`ac4r5.py`**: Calcula el valor futuro de un préstamo usando la fórmula de interés compuesto.
 
 ### 5. Estadísticas de 5 números reales
-- **`ac6r5.txt`** (o `.py` si decides cambiarle): Calcula:
+Calcula:
   - Promedio aritmético
   - Promedio multiplicativo
   - Potencia del mayor número elevado al menor
