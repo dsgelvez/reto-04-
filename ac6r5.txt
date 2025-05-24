@@ -1,0 +1,20 @@
+¿Qué es pip?
+Pip es el sistema de gestión de paquetes oficial para Python. Permite instalar, actualizar y eliminar paquetes (módulos) disponibles en el repositorio PyPI.
+
+Ejemplos de comandos:
+- Ver versión de pip: `pip --version`
+- Instalar un paquete: `pip install nombre_paquete`
+
+Módulos populares para instalar con pip:
+- numpy: cálculo numérico
+- pandas: manejo de datos
+- matplotlib: gráficos
+- scikit-learn: aprendizaje automático
+- flask: aplicaciones web
+- requests: consumo de APIs
+- pygame: desarrollo de videojuegos
+
+Cómo instalar:
+`pip install numpy`
+`pip install pandas`
+...
