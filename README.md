@@ -1,22 +1,41 @@
-# Ejercicios de Condicionales en Python
+# Reto 6 - Programación con Python
 
-Este repositorio contiene la solución a un conjunto de ejercicios básicos de condicionales en Python, realizados paso a paso para aprender programación.
+Este repositorio contiene el desarrollo del **Reto 6** 
+## 📂 Contenido del reto
 
-## Autor
+Se desarrollaron varios ejercicios en Python usando funciones, módulos, y conceptos matemáticos. Los archivos están organizados por cada actividad:
 
-Santiago Gelvez Morales  
+### 1. Figuras geométricas (volumen y área)
+- **`ac1r5.py`**: Calcula el **volumen** y **área superficial** de un sólido formado por una semiesfera y un cono.
+- Se ingresan los valores `r1`, `r2` y `h` por teclado.
+- Uso del módulo `math` y `math.pi`.
 
-## Descripción
+### 2. Figura compuesta (área y perímetro)
+- **`ac2r5.py`**: Calcula el **área** y **perímetro** de una figura compuesta por un rectángulo y dos ruedas.
+- Se ingresan los valores `r`, `a` y `b`.
 
-Se incluyen soluciones a los siguientes problemas:
+### 3. Cálculo de carne de aves
+- **`ac3r5.py`**: Calcula el total de carne en kilos dada una cantidad de gallinas, gallos y pollitos.
 
-1. Determinar si un número corresponde al código ASCII de una vocal minúscula.  
-2. Verificar si el código ASCII de la primera letra de una cadena es par.  
-3. Determinar si un carácter es un dígito.  
-4. Verificar si un número es múltiplo de otro.  
-5. Clasificar un número real como positivo, negativo o cero.  
-6. Verificar si un punto está dentro de un círculo dado.  
-7. Determinar si tres longitudes pueden formar un triángulo.  
-8. Retornar la capital de un país de América usando `match-case`.  
+### 4. Préstamo con interés compuesto
+- **`ac4r5.py`**: Calcula el valor futuro de un préstamo usando la fórmula de interés compuesto.
+
+### 5. Estadísticas de 5 números reales
+- **`ac6r5.txt`** (o `.py` si decides cambiarle): Calcula:
+  - Promedio aritmético
+  - Promedio multiplicativo
+  - Potencia del mayor número elevado al menor
+  - Raíz cúbica del menor número
+
+---
+
+## 🔧 Tecnologías utilizadas
+
+- Python 
+- Visual Studio Code
+- Git y GitHub
+
+
+
 
 
